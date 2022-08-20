@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(){
 
-    // busca si alguien ya realizó el login
+    // busca si alguien ya realizó el login, y para mantener al user logeado
     let inside = window.sessionStorage.getItem("inside");
     if(inside == null){
         // si es null nos direcciona a la pagina para entrar
