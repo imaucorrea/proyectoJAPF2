@@ -3,7 +3,7 @@
 
 
 // al inicio habia colocado los valores de longitud para los campos login y pin
-// pero la plantilla que elegi (por bonita) ya tenía esa función en el código como requerido
+// pero la plantilla que elegi ya tenía esa función en el código como requerido
 // decidí eliminarlo porque es redudante tenerlo aquí, además acorta el código
 
 
